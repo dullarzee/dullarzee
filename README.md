@@ -5,7 +5,7 @@
 
   I'm an ardent frontend software engineer and aspiring fullstack engineer...
   1st december 2024 marks my journey into frontend dev and at the time of update of this
-  README.md it about clocks four months since i started...
+  README.md, it about clocks four months since i started...
 
   #### right about now, I'm adept at the following:
     
@@ -19,6 +19,8 @@
 I'm currently, at the time of updating this README.md, learning typescript and expo to further into React-native
 
 I'm not kidding with my ardence..TRY me and see😊
+
+Check out my portfolio @ https://dullarzeeportfolio04.netlify.app
   
 
 <!--
