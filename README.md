@@ -3,7 +3,7 @@
 ### Meet Adefila Oluwatimilehin __ Dullarzee
 
 
-  I'm an ardent frontend software engineer and aspiring fullstack engineer
+  I'm an ardent frontend software engineer and aspiring fullstack engineer...
   1st december 2024 marks my journey into frontend dev and at the time of update of this
   README.md it about clocks four months since i started...
 
